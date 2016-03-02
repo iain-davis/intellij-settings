@@ -8,19 +8,19 @@
   <attributes>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="693ff" />
+        <option name="FOREGROUND" value="b5ff" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="2d58cc" />
+        <option name="FOREGROUND" value="2d58ea" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="693ff" />
+        <option name="FOREGROUND" value="b5ff" />
       </value>
     </option>
     <option name="TEXT">
