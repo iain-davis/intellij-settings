@@ -15,6 +15,7 @@
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsEqual" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsNot" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsNull" />
+    <EXCLUDED_PACKAGE NAME="org.junit.Assert.assertThat" />
   </component>
   <component name="CssFoldingSettings">
     <option name="collapseDataUri" value="false" />

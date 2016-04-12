@@ -1,10 +1,15 @@
 <code_scheme name="Iain">
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <option name="LAYOUT_STATIC_IMPORTS_SEPARATELY" value="false" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="9999" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="9999" />
   <option name="IMPORT_LAYOUT_TABLE">
     <value>
+      <package name="com.carfax" withSubpackages="true" static="true" />
+      <emptyLine />
+      <package name="" withSubpackages="true" static="true" />
+      <emptyLine />
+      <package name="java*" withSubpackages="true" static="false" />
+      <emptyLine />
       <package name="com.carfax" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="" withSubpackages="true" static="false" />
@@ -13,6 +18,9 @@
       <emptyLine />
     </value>
   </option>
+  <option name="RIGHT_MARGIN" value="180" />
+  <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="" />
+  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="thead,tbody,tfoot" />
   <JavaCodeStyleSettings>
     <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION" value="true" />
   </JavaCodeStyleSettings>
