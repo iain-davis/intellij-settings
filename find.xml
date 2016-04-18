@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'D:\Projects\vinhunter\src\test\java\com\carfax\vinhunter\vinlist\VinListConverterTest.java'" />
-    <option name="defaultScopeName" value="File 'D:\Projects\vinhunter\src\test\java\com\carfax\vinhunter\vinlist\VinListConverterTest.java'" />
+    <option name="customScope" value="File 'D:\Projects\vinzilla\vinzilla-core\src\main\java\com\carfax\vinzilla\metadata\TranIdInfo.java'" />
+    <option name="defaultScopeName" value="File 'D:\Projects\vinzilla\vinzilla-core\src\main\java\com\carfax\vinzilla\metadata\TranIdInfo.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'D:\Projects\vinhunter\src\test\java\com\carfax\vinhunter\vinlist\VinListConverterTest.java'" />
+    <option name="SEARCH_SCOPE" value="File 'D:\Projects\vinzilla\vinzilla-core\src\main\java\com\carfax\vinzilla\metadata\TranIdInfo.java'" />
   </component>
 </application>
