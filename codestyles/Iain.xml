@@ -18,7 +18,8 @@
       <emptyLine />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="180" />
+  <option name="RIGHT_MARGIN" value="250" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="" />
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="thead,tbody,tfoot" />
   <JavaCodeStyleSettings>
