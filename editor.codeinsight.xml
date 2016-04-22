@@ -11,6 +11,8 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="com.google.common.base.Predicates.equalTo" />
     <EXCLUDED_PACKAGE NAME="com.google.inject.Inject" />
+    <EXCLUDED_PACKAGE NAME="com.jcraft.jsch.Random" />
+    <EXCLUDED_PACKAGE NAME="com.jcraft.jsch.jce.Random" />
     <EXCLUDED_PACKAGE NAME="com.opensymphony.xwork2.inject.Inject" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.CoreMatchers" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.EasyMock2Matchers" />
