@@ -8,6 +8,7 @@
     <EXCLUDED_PACKAGE NAME="org.hamcrest.EasyMock2Matchers" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.JMock1Matchers" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsEqual" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsNot" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsNull" />
     <EXCLUDED_PACKAGE NAME="org.junit.jupiter.api.AssertThrows" />
   </component>
