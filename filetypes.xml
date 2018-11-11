@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="tmx" type="JSON" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="tsx" type="XML" />
+      <mapping ext="tmx" type="XML" />
     </extensionMap>
   </component>
 </application>
