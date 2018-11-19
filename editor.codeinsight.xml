@@ -6,6 +6,10 @@
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.CoreMatchers" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsCollectionContaining" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseI18nMessages" value="false" />
