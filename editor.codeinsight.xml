@@ -3,15 +3,8 @@
     <option name="collapseAndroidStrings" value="false" />
     <option name="COLLAPSE_ANDROID_TEXT" value="false" />
   </component>
-  <component name="CodeInsightSettings">
-    <EXCLUDED_PACKAGE NAME="org.hamcrest.CoreMatchers" />
-    <EXCLUDED_PACKAGE NAME="org.hamcrest.EasyMock2Matchers" />
-    <EXCLUDED_PACKAGE NAME="org.hamcrest.JMock1Matchers" />
-    <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsCollectionContaining" />
-    <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsEqual" />
-    <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsNot" />
-    <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsNull" />
-    <EXCLUDED_PACKAGE NAME="org.junit.jupiter.api.AssertThrows" />
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
