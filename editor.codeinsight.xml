@@ -8,7 +8,10 @@
   </component>
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="org.hamcrest.CoreMatchers" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.EasyMock2Matchers" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.JMock1Matchers" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsCollectionContaining" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsEqual" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
