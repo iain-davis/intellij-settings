@@ -12,6 +12,7 @@
     <EXCLUDED_PACKAGE NAME="org.hamcrest.JMock1Matchers" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsCollectionContaining" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsEqual" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsNull" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
