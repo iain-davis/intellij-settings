@@ -4,7 +4,10 @@
     <option name="COLLAPSE_ANDROID_TEXT" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.CoreMatchers" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.CoreMatchers.instanceOf" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsCollectionContaining" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsInstanceOf" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
