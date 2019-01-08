@@ -11,6 +11,7 @@
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsCollectionContaining" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsEqual" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsInstanceOf" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsNot" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
