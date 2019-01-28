@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="character" type="PLAIN_TEXT" />
+      <mapping ext="player" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
