@@ -13,6 +13,7 @@
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsInstanceOf" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsNot" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsNull" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsSame" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
