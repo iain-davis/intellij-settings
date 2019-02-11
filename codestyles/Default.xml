@@ -11,6 +11,8 @@
   </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="FIELD_ANNOTATION_WRAP" value="1" />
   </codeStyleSettings>
